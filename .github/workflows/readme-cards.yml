@@ -27,7 +27,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&icon_color=3FCF8E&title_color=3FCF8E&locale=ja
+          # contribs（他人所有リポジトリへの貢献）は個人開発中心のため常に 0 になるので隠す
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&theme=transparent&icon_color=3FCF8E&title_color=3FCF8E&locale=ja
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -35,7 +36,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=3FCF8E&locale=ja
+          # バイト数だけだとモノレポの TypeScript に偏るため、リポジトリ数も同じ重みで加味する
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&title_color=3FCF8E&locale=ja
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
