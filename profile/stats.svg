@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">&#21152;&#21476;&#21407;&#12288;&#20908;&#24357;&#12398; GitHub &#32113;&#35336;, Rank: B</title>
-        <desc id="descId">スターされた数: 4, 合計コミット数  : 1533, 合計 PR: 334, 合計 issue: 22</desc>
+        <title id="titleId">&#21152;&#21476;&#21407; &#20908;&#24357;&#12398; GitHub &#32113;&#35336;, Rank: B</title>
+        <desc id="descId">スターされた数: 4, 合計コミット数  : 1544, 合計 PR: 334, 合計 issue: 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 144.02183099001275;
+        stroke-dashoffset: 143.91188657846402;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >&#21152;&#21476;&#21407;&#12288;&#20908;&#24357;&#12398; GitHub &#32113;&#35336;</text>
+      >&#21152;&#21476;&#21407; &#20908;&#24357;&#12398; GitHub &#32113;&#35336;</text>
     </g>
       </g>
     
