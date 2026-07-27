@@ -125,8 +125,6 @@ Swift による試作中のアプリ。
 <img height="170" src="https://raw.githubusercontent.com/Toya-kkhr/Toya-kkhr/main/profile/stats.svg" alt="GitHub Stats" />
 <img height="170" src="https://raw.githubusercontent.com/Toya-kkhr/Toya-kkhr/main/profile/top-langs.svg" alt="Top Languages" />
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=Toya-kkhr&theme=transparent&hide_border=true&date_format=Y%2Fn%2Fj&ring=3FCF8E&fire=F05138&currStreakLabel=3FCF8E" alt="GitHub Streak" />
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Toya-kkhr&bg_color=00000000&color=3FCF8E&line=3FCF8E&point=ffffff&area=true&area_color=3FCF8E&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
