@@ -44,7 +44,7 @@ iOS と Web の両方を書く個人開発者です。
 `Swift 6` `FamilyControls` `DeviceActivity`
 `HealthKit` `Swift Testing`
 
-[**→ プロダクトサイト**](https://toya-kkhr.github.io/arukulock-site/)
+[**→ プロダクトサイト**](https://apps.apple.com/jp/app/%E3%82%A2%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%87%E3%83%88%E3%83%83%E3%82%AF%E3%82%B9-%E9%81%8B%E5%8B%95%E7%BF%92%E6%85%A3/id6789016716)
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Web と Mobile が同一の REST API を共有するモノレポ構成。型・�
 `Next.js 16` `React 19` `Expo SDK 54`
 `Turborepo` `pnpm` `Prisma 7` `Supabase`
 
-[**→ Web アプリ**](https://life-logue-web.vercel.app)
+[**→ Web アプリ**](https://www.lifelogue.jp)
 
 </td>
 <td width="50%" valign="top">
