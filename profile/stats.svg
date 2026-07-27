@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">&#21152;&#21476;&#21407;&#12288;&#20908;&#24357;&#12398; GitHub &#32113;&#35336;, Rank: C</title>
-        <desc id="descId">スターされた数: 1, 合計コミット数  : 21, 合計 PR: 0, 合計 issue: 0, 貢献したリポジトリ （昨年）: 0</desc>
+        <title id="titleId">&#21152;&#21476;&#21407;&#12288;&#20908;&#24357;&#12398; GitHub &#32113;&#35336;, Rank: B</title>
+        <desc id="descId">スターされた数: 4, 合計コミット数  : 1533, 合計 PR: 334, 合計 issue: 22, 貢献したリポジトリ （昨年）: 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 247.17544595533653;
+        stroke-dashoffset: 144.02183099001275;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          B
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >1</text>
+      >4</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >21</text>
+      >1.5k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >0</text>
+      >334</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >0</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
